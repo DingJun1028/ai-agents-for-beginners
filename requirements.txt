@@ -16,3 +16,4 @@ python-dotenv~=1.0.1
 semantic-kernel>=1.29.0
 semantic-kernel[azure]
 semantic-kernel[mcp]
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
